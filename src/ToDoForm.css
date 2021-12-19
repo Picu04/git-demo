@@ -1,0 +1,58 @@
+._form{
+display: flex;
+background-color: rgb(52, 23, 83);
+flex-direction: column;
+padding: 10px;
+border-radius: 10px;
+flex-wrap: wrap;
+
+}
+
+._btn{
+    border: brown;
+    background-color: cyan;
+    margin: 10px;
+    height: 50px;
+    width: 80px;
+    border-radius: 10px;
+    align-self: center;
+}
+label{
+    text-align: center;
+    color: white;
+    text-decoration: black;
+}
+
+input{
+    height: 30%;
+    width: 30%;
+    align-self: center;
+}
+.main_div {
+border:5px black;
+padding: 10px;
+margin: 10px;
+height: 50%;
+width: 50%;
+}
+
+.div_li{
+/* border:5px black;
+padding: 10px;
+margin: 10px;
+height: 50%;
+width: 50%; */
+
+display: flex;
+background-color: rgb(52, 23, 83);
+flex-direction: column;
+padding: 10px;
+border-radius: 10px;
+flex-wrap: wrap;
+
+padding: 10px;
+margin: 10px;
+height: 50%;
+width: 50%;
+list-style:none;
+}
